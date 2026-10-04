@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://instancepage.stuxedo.net/sitemap.xml
+Sitemap: https://instancepage-v1.stuxedo.net/sitemap.xml
